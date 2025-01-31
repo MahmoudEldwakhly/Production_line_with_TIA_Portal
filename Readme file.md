@@ -26,3 +26,7 @@ The production line is designed to handle three main tasks: **sorting, machining
 - **PLC Ladder Logic**
 - **HMI Development**
 
+## project video link 
+
+https://drive.google.com/file/d/1EeCIKu9F0hAERoEPL4N4_pQja_-MM6nF/view?usp=drivesdk
+
